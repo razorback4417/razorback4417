@@ -1,5 +1,5 @@
 ### Hi, I'm Theo👋
 
 
-- 🔭 Researching/working on optimistic/zk scaling solutions for Etheruem, secure smart contract development, and training AI models
+- 🔭 Researching/working on AI tools for journalists. Previously doing security research on Arbitrum.
 - 📫 How to reach me: luut@ucla.edu
