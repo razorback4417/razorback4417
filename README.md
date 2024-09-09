@@ -1,3 +1,3 @@
-### 👋 Hey, I'm Theo!
+### Hey, I'm Theo!
 
 📫 luut@ucla.edu
