@@ -1,1 +1,1 @@
-📫 luut@ucla.edu 📫
+📫 luut@ucla.edu
