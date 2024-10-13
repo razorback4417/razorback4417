@@ -1,1 +1,1 @@
-Theo Luu • luut@ucla.edu 📫
+luut@ucla.edu 📫
